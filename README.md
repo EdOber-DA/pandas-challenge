@@ -16,7 +16,7 @@ Included in this repository is a folder with:
 
 * Jupyter notebook with the solutions to the assignment:
 
-    * [Heroes of Pymoli Jupyter Notebook](HeroesofPymoli/HeroesofPymoli.jpynb)- reads the [purchase data csv file](HeroesofPymoli/Resources/purchase_data.csv) and prints the summary output to the terminal
+    * [Heroes of Pymoli Jupyter Notebook](HeroesOfPymoli/HeroesOfPymoli.ipynb)- reads the [purchase data csv file](HeroesOfPymoli/Resources/purchase_data.csv) and prints the summary output to the terminal (Note: tables do not all render)
 
 * Link to Jupyter notebook viewer for cleaned terminal output :
 
