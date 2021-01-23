@@ -18,7 +18,7 @@ Included in this repository is a folder with:
 
     * [Heroes of Pymoli Jupyter Notebook](HeroesOfPymoli/HeroesOfPymoli.ipynb)- reads the [purchase data csv file](HeroesOfPymoli/Resources/purchase_data.csv) and prints the summary output to the terminal (Note: tables do not all render)
 
-* Link to Jupyter notebook viewer for cleaned terminal output :
+* Link to Jupyter notebook NBviewer for cleaned terminal output :
 
-    * [NBViewer](Images) - Folder with all the screen shots (also shown below) of each output showing the final results.
+    * [NBViewer](https://nbviewer.jupyter.org/github/EdOber-DA/pandas-challenge/blob/main/HeroesOfPymoli/HeroesOfPymoli.ipynb)   
 
