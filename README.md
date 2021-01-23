@@ -10,7 +10,10 @@ This is the Pandas Homework submission for: Heroes of PyMoli
 Included in this repository is a folder with:
 * Jupyter notebook that solves the homework assignments by reading the input csv file
 
-* Alternate URL to go to a Jupyter notebook viewer that facilitates seeing the output correctly 
+* Alternate URL to go to a Jupyter notebook viewer that facilitates seeing the output correctly
+
+* Written report with three conclusions on the analyssis 
+
 
 ### Files
 
@@ -22,3 +25,4 @@ Included in this repository is a folder with:
 
     * [NBViewer](https://nbviewer.jupyter.org/github/EdOber-DA/pandas-challenge/blob/main/HeroesOfPymoli/HeroesOfPymoli.ipynb)   
 
+* [Written analysis of the data](HeroesOfPymoli/Analysis/Heroes_Of_Pymoli_Analysis-Ed_Ober.docx)
